@@ -1,4 +1,19 @@
 {
   "name":"gaomingcode/bootstrap.progressbar",
-  "type": "library"
+    "description": "Progressbar interactions for twitter bootstrap 2 & 3",
+    "type": "library",
+    "license": [
+        "MIT"
+    ],
+    "keywords": [
+        "bootstrap", "progressbar"
+    ],
+    "homepage": "http://www.minddust.com/project/bootstrap-progressbar",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Stephan Groß"
+        }
+    ]
 }
